@@ -1,0 +1,166 @@
+#background-1{
+  margin: 0%;
+  padding-top: -50px;
+  height: 200px;
+  width: 1900px;
+  
+}
+
+#background-2{
+  margin: 0px;
+  width:1900px;
+  position: absolute ;
+  height: 1000px;
+  
+ 
+}
+
+#name-Gon{
+  margin:0;
+  color: white;
+  font-size: 110px;
+  margin-left: 300px;
+  position: absolute;
+  margin-top: 635px;
+  
+}
+#name-Freecs{
+  color:White;
+  font-size: 150px;
+  margin:0;
+  margin-left: 260px;
+  position: absolute;
+  margin-top: 700px;
+}
+
+#Hero-Gon{
+  margin:0;
+  margin-left: 30px;
+  position: absolute;
+  margin-top: 150px;
+  height: 800px;
+}
+
+#name-Killua{
+  margin:0;
+  color: white;
+  font-size: 100px;
+  margin-left: 1000px;
+  position: absolute;
+  margin-top: 140px;
+  
+}
+
+#name-Zolydc{
+  margin:0;
+  color: white;
+  font-size: 150px;
+  margin-left: 900px;   
+  position: absolute;
+  margin-top: 200px;
+  
+}
+
+#Hero-Killua{
+  margin:0;
+  margin-left: 1600px;
+  position: absolute;
+  margin-top: 150px;
+  height: 800px;
+}
+
+#background-3{
+  margin: 0px;
+  width:1900px;
+
+  position: absolute ;
+  height: 1000px;
+  margin-top: 1010px;
+}
+
+#Hero-1{
+  margin:0;
+  margin-left: 1500px;
+  position: absolute;
+  margin-top: 1150px;
+  height: 800px;
+}
+
+#content{
+  color:white;
+  margin:0;
+  position: absolute;
+  margin-top: 1400px;
+  text-align:left;
+  font-size: 30px;
+  margin-left: 100px;
+ 
+
+}
+#Gon{
+  color:white;
+  margin:0;
+  margin-left:30px;
+  position: absolute;
+  margin-top: 1200px;
+  text-align:left;
+  font-size: 150px;
+  margin-left: 100px;
+  
+}
+
+#background-4{
+  margin: 0px;
+  width:1900px;
+  padding:0px;
+  position: absolute ;
+  height: 1100px;
+  margin-top: 2020px;
+}
+
+#Hero-2{
+  margin:0;
+  margin-left: 30px;
+  position: absolute;
+  margin-top:2200px;
+  height: 800px;
+}
+
+#Killua{
+  margin:0;
+  color:white;
+  font-size: 150px;
+  margin-left: 450px;
+  position: absolute;
+  margin-top: 2200px;
+}
+
+#Killua-2{
+  margin:0;
+  padding:0;
+  color:white;
+  font-size: 150px;
+  margin-left: 1075px;
+  position: absolute;
+  margin-top: 2200px;
+}
+
+#content-2{
+  color:white;
+  margin:0;
+  margin-top: 2400px;
+  font-size: 40px;
+  left:300px;
+  position: absolute;
+}
+
+#footer{
+  color:white;
+  position:absolute;
+  font-size: 50px;
+  margin:0;
+  margin-top: 3000px;
+  
+}
+
+  
